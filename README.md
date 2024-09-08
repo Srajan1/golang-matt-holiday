@@ -1,0 +1,1 @@
+A walk through of the golang course taught in https://www.youtube.com/shorts/HMO1VDRAL-k
